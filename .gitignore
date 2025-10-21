@@ -1,0 +1,20 @@
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+
+# Base de datos SQLite
+*.db
+
+# Configuración de Visual Studio Code
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
